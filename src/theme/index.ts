@@ -27,6 +27,7 @@ import tabs from "./components/tabs";
 import tabsBody from "./components/tabs/tabsBody";
 import tabsHeader from "./components/tabs/tabsHeader";
 import tabPanel from "./components/tabs/tabPanel";
+import text from "./components/text";
 import textarea from "./components/textarea";
 import tooltip from "./components/tooltip";
 import typography from "./components/typography";
@@ -80,6 +81,7 @@ const theme: any = {
   tabsBody,
   tabsHeader,
   tabPanel,
+  text,
   textarea,
   tooltip,
   typography,
@@ -134,6 +136,7 @@ export * from "./components/tabs";
 export * from "./components/tabs/tabsBody";
 export * from "./components/tabs/tabsHeader";
 export * from "./components/tabs/tabPanel";
+export * from "./components/text";
 export * from "./components/textarea";
 export * from "./components/tooltip";
 export * from "./components/typography";
